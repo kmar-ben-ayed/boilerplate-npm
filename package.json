@@ -18,5 +18,6 @@
 		"boilerplate",
 		"npm",
 		"package.json"
-	]
+	],
+	"license": "MIT"
 }
