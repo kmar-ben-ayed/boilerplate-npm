@@ -12,5 +12,5 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author":"kmar ben ayed",
-	"description": "A project to learn about npm package.json file",
+	"description": "A project to learn about npm package.json file"
 }
